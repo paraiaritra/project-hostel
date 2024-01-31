@@ -10,7 +10,7 @@ struct node {
     char gender[20];
     struct node *next;
 };
-
+//helllllooooo
 struct node1 {
     int roomNo;
     int serial;
